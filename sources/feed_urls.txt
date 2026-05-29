@@ -1,0 +1,48 @@
+# Complete list of BLACKSHIELD feed URLs
+
+ASN & ROUTING
+https://www.spamhaus.org/drop/asndrop.txt
+https://iptoasn.com/data/ip2asn-v4.tsv.gz
+https://iptoasn.com/data/ip2asn-v6.tsv.gz
+https://asn.routeviews.org/routeviews/ASN.txt
+https://raw.githubusercontent.com/ipverse/asn-info/main/data/asn-list.csv
+
+C2 & MALWARE
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://threatfox.abuse.ch/downloads/hostfile/
+https://sslbl.abuse.ch/blacklist/sslipblacklist.csv
+https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist
+https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
+
+BRUTEFORCE & SCANNERS
+https://lists.blocklist.de/lists/all.txt
+https://www.dshield.org/block.txt
+https://cinsscore.com/list/ci-badguys.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt
+
+ANONYMIZERS
+https://check.torproject.org/torbulkexitlist
+https://raw.githubusercontent.com/X4BNet/lists_vpn/main/ipv4.txt
+https://www.proxy-list.download/api/v1/get?type=http
+
+ENEMY NATIONS
+https://raw.githubusercontent.com/herrbischoff/country-ip-blocks/master/ipv4/cn.cidr
+https://raw.githubusercontent.com/herrbischoff/country-ip-blocks/master/ipv4/ru.cidr
+https://raw.githubusercontent.com/herrbischoff/country-ip-blocks/master/ipv4/ir.cidr
+
+CLOUD & DATACENTER
+https://raw.githubusercontent.com/fungibledata/cloud-ips/main/aws-ipv4.txt
+https://raw.githubusercontent.com/fungibledata/cloud-ips/main/azure-ipv4.txt
+https://raw.githubusercontent.com/fungibledata/cloud-ips/main/gcp-ipv4.txt
+https://raw.githubusercontent.com/fungibledata/cloud-ips/main/alibaba-ipv4.txt
+
+REPUTATION & ABUSE
+https://reputation.alienvault.com/reputation.generic
+https://www.abuseipdb.com/export/blacklist.csv
+https://ipv4.rip/daily.txt
+
+ADDITIONAL
+https://urlhaus.abuse.ch/downloads/text/
+https://mirror1.malwaredomains.com/files/justdomains
+https://phishing.army/download/phishing_army_blocklist.txt
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset

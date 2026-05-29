@@ -1,0 +1,65 @@
+# BLACKSHIELD FEED CATEGORIES
+# Total: 233+ threat feed sources
+
+## ASN & ROUTING (20+ sources)
+- Spamhaus ASNDROP
+- IPtoASN
+- RouteViews
+- RIR data (APNIC, ARIN, RIPE, AFRINIC, LACNIC)
+- ipverse ASN info
+
+## C2 & MALWARE (50+ sources)
+- Feodo Tracker
+- ThreatFox
+- SSL Blacklist
+- Zeus Tracker
+- SpyEye Tracker
+- Palevo Tracker
+- Cybercrime Tracker
+- Ransomware Tracker
+
+## BRUTEFORCE & SCANNERS (30+ sources)
+- Blocklist.de (all services)
+- DShield
+- Emerging Threats
+- CI Army
+- OpenBL
+- IPSum
+- Maltrail
+
+## ANONYMIZERS (40+ sources)
+- Tor exit nodes (5+ sources)
+- VPN IPs (X4BNet, VPN lists)
+- Proxy lists (SOCKS4/5, HTTP)
+
+## ENEMY NATIONS (20+ sources)
+- Country IP blocks (CN, RU, IR, KP, CU, SY)
+- RIR allocation data
+
+## CLOUD & DATACENTER (15+ sources)
+- AWS IP ranges
+- Azure IP ranges
+- GCP IP ranges
+- Alibaba IP ranges
+- Oracle cloud
+- IBM cloud
+- DigitalOcean
+- Vultr
+- Linode
+
+## REPUTATION & ABUSE (25+ sources)
+- AbuseIPDB
+- AlienVault OTX
+- IPV4.rip
+- MyIP.ms
+- Critical Stack
+
+## ADDITIONAL (30+ sources)
+- URLhaus
+- MalwareDomains
+- Phishing Army
+- CleanMX
+- VX Vault
+- AdGuard
+- EasyList
+- FireHOL IPSets

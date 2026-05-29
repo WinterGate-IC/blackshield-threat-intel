@@ -1,0 +1,24 @@
+{
+  "version": "6.0",
+  "total_sources": 233,
+  "categories": {
+    "asn_routing": 20,
+    "c2_malware": 50,
+    "bruteforce_scanners": 30,
+    "anonymizers": 40,
+    "enemy_nations": 20,
+    "cloud_datacenter": 15,
+    "reputation_abuse": 25,
+    "additional": 33
+  },
+  "primary_feeds": [
+    "Spamhaus",
+    "Feodo Tracker",
+    "Blocklist.de",
+    "DShield",
+    "Tor Project",
+    "AlienVault OTX",
+    "AbuseIPDB",
+    "URLhaus"
+  ]
+}
