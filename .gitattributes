@@ -1,0 +1,6 @@
+*.txt text eol=lf
+*.sh text eol=lf
+*.sql text eol=lf
+*.json text eol=lf
+*.gz binary
+*.part_* binary

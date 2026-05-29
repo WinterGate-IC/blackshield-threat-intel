@@ -1,0 +1,24 @@
+BLACKSHIELD Threat Feed Sources - Total 233 feeds
+
+Primary Sources:
+- Spamhaus DROP/EDROP/ASNDROP
+- Feodo Tracker
+- AlienVault OTX
+- Blocklist.de
+- DShield
+- Emerging Threats
+- FireHOL IPSets
+- Tor Exit Nodes
+- Cybercrime Tracker
+- ThreatFox
+- SSL Blacklist
+- Zeus/SpyEye/Palevo Trackers
+- Ransomware Tracker
+- AbuseIPDB
+- IPV4.RIP
+- MyIP.ms
+- URLhaus
+- MalwareDomains
+- Phishing Army
+- CleanMX
+- VX Vault
