@@ -1,0 +1,10 @@
+{
+  "version": "6.0",
+  "generated": "2025-05-29",
+  "total_ips": 276462,
+  "total_cidrs": 11306,
+  "total_asns": 4530,
+  "total_entries": 292325,
+  "blocklist_size_mb": 4.0,
+  "threat_feeds": 233
+}
